@@ -9,7 +9,7 @@
 
 
 ## OSI Model
-- *P*lease *D*onot *T*hrow *S*ausage *P*izza *A*way
+- *P*lease *D*o *N*ot *T*hrow *S*ausage *P*izza *A*way
 - It stands for Open Systems Interconnection Modal.
 - There are 7 layers in this model:
 
