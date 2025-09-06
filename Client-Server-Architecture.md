@@ -7,7 +7,6 @@
 - The Client-Server Architecture tells you about Servers, Connection between a client and the server and how it takes place.
 - The client-server network is usually scaled large across countries and even continents.
 
-<img width="610" height="347" alt="image" src="https://github.com/user-attachments/assets/72b754b9-c439-4735-a31f-eddc2b87df21" />
 
 ## Servers
 
@@ -22,6 +21,8 @@
 - Clients have high download speed (as compared to the upload speed).
 - When `Client A` wants to connect to `Client B`, then this connection takes place only through the server, I.E.: Gaming.
 
+
+<img width="1676" height="788" alt="image" src="https://github.com/user-attachments/assets/db9c9d19-c1fb-4d17-b627-836da3571889" />
 
 
 # Peer to Peer Communication
