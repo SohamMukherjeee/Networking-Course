@@ -78,6 +78,8 @@
 
 - In this the stations are completely unaware of the presence of bridge.
 
+<img width="938" height="378" alt="image" src="https://github.com/user-attachments/assets/c4742217-7e8a-439e-b8a2-2f6acb37cecf" />
+
 
 ## Switch
 
