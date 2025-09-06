@@ -88,6 +88,9 @@
 - A data link layer device.
 - Error checking is done on the packets and only good packets are forwarded.
 
+<img width="313" height="161" alt="image" src="https://github.com/user-attachments/assets/43e6a327-de0c-43cd-b636-28baeadc20da" />
+
+
 ## Router
 
 - This operates at Network layer.
