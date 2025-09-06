@@ -65,6 +65,8 @@
 - This takes power from the connected wires.
 - This sends the network from the wire without clean and boosting the network.
 
+<img width="1639" height="1012" alt="image" src="https://github.com/user-attachments/assets/8d3bc29e-5e13-461e-b73e-651c01f54a3d" />
+
 
 ## Bridge
 
