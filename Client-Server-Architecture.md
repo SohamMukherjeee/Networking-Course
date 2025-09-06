@@ -42,6 +42,8 @@
 
 - This device takes the network signal and sends it again in the desired direction before the signal becomes weak over the same network.
 - These don't amplify the network but they regenerate the detected network with the same strength.
+  
+<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/de0939b8-f901-4120-9917-11452de4b583" />
 
 ## Hub
 
