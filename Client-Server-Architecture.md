@@ -7,6 +7,8 @@
 - The Client-Server Architecture tells you about Servers, Connection between a client and the server and how it takes place.
 - The client-server network is usually scaled large across countries and even continents.
 
+<img width="610" height="347" alt="image" src="https://github.com/user-attachments/assets/72b754b9-c439-4735-a31f-eddc2b87df21" />
+
 ## Servers
 
 - Servers are the points where a client connects to have a connection for getting/providing a service, to do some task, etc.
