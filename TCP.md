@@ -2,6 +2,14 @@
   <h1>Transmission Control Protocol</h1>
 </div>
 
+# What is the difference between the Network Layer and the Transport Layer?
+
+# Suppose I send a message using an application from Computer A to Computer B:
+
+## The Network Layer is responsible for delivering the message from Computer A to Computer B (host-to-host communication).
+
+- The Transport Layer ensures that the message is delivered from Computer B’s operating system   to the specific application running on Computer B (process-to-process communication).
+
 ## TCP
 
 - TCP stands for Transmission Control Protocol.
