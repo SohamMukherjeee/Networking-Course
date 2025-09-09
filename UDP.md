@@ -22,6 +22,8 @@
 - Total size: 2^16 bytes.
 - Header is of 8 bytes => port numbers, length of the packet, checksum.
 - Size of the data = 2^16 - 8 bytes.
+  
+<img width="596" height="452" alt="image" src="https://github.com/user-attachments/assets/ac2547d2-c1f3-4b6d-a422-47ba6197618a" />
 
 
 ### Use Cases
